@@ -1,8 +1,8 @@
-## This file is structured as follow:
+## This file is structured as follows:
 ## 1) required libraries are loaded,
 ## 2) required learners are wrapped in the R package mlr,
-## 3) measures are difined,
-## 4) benchmark experiments are defined for each datasets (estimated mean perfor
+## 3) measures are defined,
+## 4) benchmark experiments are defined for each dataset (estimated mean perfor
 ##    mances are computed after benchmarking),
 ## 5) and boxplot is generated as a .tex file, which needs to be compiled to ob-
 ##    tain the final figure presented in the paper.
